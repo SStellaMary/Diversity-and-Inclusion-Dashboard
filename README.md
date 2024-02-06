@@ -1,4 +1,4 @@
-# Diversity-and-Inclusion-Dashboard
+# Diversity-and-Inclusion-Analysis
 
 Here is a summary of the key insights from this diversity and inclusion data:
 
