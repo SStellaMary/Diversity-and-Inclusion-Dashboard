@@ -1,9 +1,11 @@
-# Diversity-and-Inclusion-Analysis
+**# Diversity-and-Inclusion-Analysis** - **Microsoft Power BI**
 
 The dashboard presents various key performance indicators (KPIs) related to gender diversity and inclusion across different job levels and age groups within an organization. 
 
 **Tools used: **
 Microsoft Excel, Power Query Editor, Microsoft Power BI. 
+
+Data Source: PWC Switzerland- Power BI Job Simulation (Forage Platform)
 
 Here's a summary of the main points:
 
