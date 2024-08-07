@@ -1,17 +1,43 @@
 # Diversity-and-Inclusion-Analysis
 
-Here is a summary of the key insights from this diversity and inclusion data:
+The dashboard presents various key performance indicators (KPIs) related to gender diversity and inclusion across different job levels and age groups within an organization. 
 
-- There is a significant gender imbalance at the executive levels, with over 80% male executives in both FY20 and FY21. No female hires or promotions to executive level in FY20.
+**Tools used: **
+Microsoft Excel, Power Query Editor, Microsoft Power BI. 
 
-- Younger employees (age 20-39) received the majority of promotions in FY21, over 57%. Older employees (age 50-69) received far fewer promotions.  
+Here's a summary of the main points:
 
-- Turnover rate was higher for female employees compared to males in most job levels in FY20.
+**Gender Distribution:**
 
-- Performance ratings are evenly distributed between genders, though marginally more males received the top rating.
+Overall, the organization has a slight male majority, with 59% male employees and 41% female employees.
+The gender distribution varies significantly across job levels, with female representation decreasing at higher levels.
 
-- Majority of employees fall in the 30-39 age group, followed by 20-29. Very few employees under 20 or over 60.
+**Job Level Analysis:**
 
-- After FY21 promotions, the junior officer job level had the highest number of employees, followed by senior officer and manager levels. The executive job level had the least.
+At the Junior Officer level (6), there's near gender parity (53% female, 47% male).
+The gender gap widens at higher levels, with only 13% female representation at the Executive level (1).
 
-In summary, the data indicates potential areas of concern around representation of women at executive levels, promotion rates for older employees, and turnover rates for women. It provides insights into diversity across age, gender and job levels.
+**Hiring and Promotions:**
+
+There seems to be an effort to improve gender balance in hiring, especially at lower levels.
+However, executive hires and promotions in FY20 were 100% male, indicating a lack of diversity at the highest level.
+
+**Performance Ratings:**
+
+Performance ratings are relatively balanced between genders, with slight variations across different rating levels.
+
+**Executive Gender Balance:**
+
+There's a significant imbalance at the executive level, with 84.21% male and 15.79% female in FY21.
+This shows a slight improvement from FY20, which had 87.5% male and 12.5% female executives.
+
+**Age Distribution:**
+
+The organization has a young workforce, with the majority of employees in the 20-29 and 30-39 age groups.
+There's a noticeable decrease in employees aged 40 and above.
+
+**Turnover Rate:**
+
+Turnover rates vary across job levels, with higher turnover generally seen at lower levels.
+
+This dashboard highlights the organization's current state of diversity and inclusion, particularly focusing on gender balance across different job levels and age groups. It reveals areas where the company is doing well (e.g., gender balance at junior levels) and areas that need improvement (e.g., female representation in executive positions). This data can be used to inform and guide diversity and inclusion initiatives within the organization.
